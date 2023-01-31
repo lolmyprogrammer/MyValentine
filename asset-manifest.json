@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyValentine/static/css/main.a5dce85a.chunk.css",
+    "main.js": "/MyValentine/static/js/main.18afb313.chunk.js",
+    "main.js.map": "/MyValentine/static/js/main.18afb313.chunk.js.map",
+    "runtime-main.js": "/MyValentine/static/js/runtime-main.e8d129cc.js",
+    "runtime-main.js.map": "/MyValentine/static/js/runtime-main.e8d129cc.js.map",
+    "static/js/2.52431200.chunk.js": "/MyValentine/static/js/2.52431200.chunk.js",
+    "static/js/2.52431200.chunk.js.map": "/MyValentine/static/js/2.52431200.chunk.js.map",
+    "index.html": "/MyValentine/index.html",
+    "precache-manifest.2607c24ac9ceba9a37662bae410465c4.js": "/MyValentine/precache-manifest.2607c24ac9ceba9a37662bae410465c4.js",
+    "service-worker.js": "/MyValentine/service-worker.js",
+    "static/css/main.a5dce85a.chunk.css.map": "/MyValentine/static/css/main.a5dce85a.chunk.css.map",
+    "static/js/2.52431200.chunk.js.LICENSE.txt": "/MyValentine/static/js/2.52431200.chunk.js.LICENSE.txt",
+    "static/media/Ceskam.gif": "/MyValentine/static/media/Ceskam.c0599093.gif",
+    "static/media/Inaet.gif": "/MyValentine/static/media/Inaet.7746f731.gif",
+    "static/media/Interesno.gif": "/MyValentine/static/media/Interesno.e831c6c0.gif",
+    "static/media/Lutka.gif": "/MyValentine/static/media/Lutka.46feb314.gif",
+    "static/media/Mila.gif": "/MyValentine/static/media/Mila.d348e440.gif",
+    "static/media/MilaBojan.gif": "/MyValentine/static/media/MilaBojan.04b613c4.gif",
+    "static/media/TeSakam.gif": "/MyValentine/static/media/TeSakam.641a584c.gif",
+    "static/media/Valentine.gif": "/MyValentine/static/media/Valentine.f1be026f.gif",
+    "static/media/Valorant.png": "/MyValentine/static/media/Valorant.8b0c4eec.png",
+    "static/media/WOO.gif": "/MyValentine/static/media/WOO.f1ce781b.gif",
+    "static/media/ZaMene.gif": "/MyValentine/static/media/ZaMene.ee3bbcef.gif",
+    "static/media/ZaTebe.gif": "/MyValentine/static/media/ZaTebe.865f1c97.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8d129cc.js",
+    "static/js/2.52431200.chunk.js",
+    "static/css/main.a5dce85a.chunk.css",
+    "static/js/main.18afb313.chunk.js"
+  ]
+}
